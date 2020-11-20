@@ -1,3 +1,2 @@
 selenium>=3.141.0
 huepy>=1.2.1
-grab>=0.6.41
