@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-```
+```python
 from Scrape import Scrape
 
 scraper = Scrape("webdriver/geckodriver")
